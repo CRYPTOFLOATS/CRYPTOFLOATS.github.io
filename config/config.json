@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x799EF4f56E47A7ef873867C7c069940a5d6737Ed",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x799EF4f56E47A7ef873867C7c069940a5d6737Ed",
+  "CONTRACT_ADDRESS": "0xDFcCedf4f65CD1Bc8Bd378a92aFd6b10484263ea",
+  "SCAN_LINK": "https://etherscan.io/address/0xDFcCedf4f65CD1Bc8Bd378a92aFd6b10484263ea",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "Crypto Floats",
   "SYMBOL": "CF",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.0817,
   "GAS_LIMIT": 400000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cript-ofloats",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cript-ofloats",
   "SHOW_BACKGROUND": true
 }
